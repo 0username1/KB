@@ -1,4 +1,4 @@
-# Kanban Task Management App 
+# Kanban Board Task Management App 
 
 ---Installations ---
 
